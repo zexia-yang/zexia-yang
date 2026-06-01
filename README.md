@@ -3,6 +3,7 @@
 Also known as Edward Yang
 
 Research Collaborator, Institute for AI and Law, Tsinghua University
+
 Independent Researcher
 
 Email: [yangzexia@126.com](mailto:yangzexia@126.com)
